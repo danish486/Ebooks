@@ -23,8 +23,8 @@
 [althub.co.za](https://althub.co.za)  
 [irc guide (reddit)](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)  
 [usenet guide (reddit)](https://www.reddit.com/r/Piracy/comments/95t525/i_said_i_would_so_finally_delivered_on_my_guide/)  
-[irc.undernet.org/bookz](irc.undernet.org/bookz)  
-[irc.irchighway.net/ebooks](irc.irchighway.net/ebooks)  
+irc.undernet.org/bookz 
+irc.irchighway.net/ebooks
 [hamsphire college](https://www.hampshire.edu/library/links-to-free-ebook-resources)  
 [google custom search](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo)  
 [1337x.to](https://1337x.to)  
