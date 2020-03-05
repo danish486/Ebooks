@@ -1,6 +1,6 @@
 ## Free ebooks
 
-![Logo](https://raw.githubusercontent.com/danish486/ebooks/master/undraw_reading_list_4boi.png) 
+![Logo](https://raw.githubusercontent.com/danish486/ebooks/master/site.logo.png) 
 [b-ok.cc](https://b-ok.cc)  
 [libgen.is](https://libgen.is)  
 [libgen.me](https://libgen.me)  
