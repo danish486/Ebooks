@@ -4,7 +4,7 @@
 [libgen.is](https://libgen.is)  
 [libgen.me](https://libgen.me)  
 [gen.lib.rus.ec](http://gen.lib.rus.ec)  
-[mobilism.com](https://mobilism.com)  
+[mobilism.org](https://mobilism.org)  
 [dlfeb.com](https://dlfeb.com)  
 [avxhm.se](https://avxhm.se) ([file host wiki](https://filehostlist.miraheze.org/))  
 [avaxhome.co](https://avaxhome.co)  
