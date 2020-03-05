@@ -26,7 +26,7 @@
 [irc.irchighway.net/ebooks](irc.irchighway.net/ebooks)  
 [hamsphire college](https://www.hampshire.edu/library/links-to-free-ebook-resources)  
 [google custom search](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo)  
-[1337xto.to](https://1337x.to.to)  
+[1337x.to](https://1337x.to)  
 [torrentz2.eu](https://torrentz2.eu)  
 [thepiratebay.org](https://thepiratebay.org)  
 [openlibrary.org](https://openlibrary.org/)   
