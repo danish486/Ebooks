@@ -3,7 +3,7 @@
 [b-ok.cc](https://b-ok.cc)  
 [libgen.is](https://libgen.is)  
 [libgen.me](https://libgen.me)  
-[gen.lib.rus.ec](https://gen.lib.rus.ec)  
+[gen.lib.rus.ec](http://gen.lib.rus.ec)  
 [mobilism.com](https://mobilism.com)  
 [dlfeb.com](https://dlfeb.com)  
 [avxhm.se](https://avxhm.se) ([file host wiki](https://filehostlist.miraheze.org/))  
