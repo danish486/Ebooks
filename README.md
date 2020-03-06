@@ -32,5 +32,5 @@ irc.irchighway.net/ebooks
 [openlibrary.org](https://openlibrary.org/)   
 [allitebooks.org](http://www.allitebooks.org/)   
 [ebooks(multireddit)](https://www.reddit.com/r/eebooks+mathbooks+csbooks+physicsbooks+econbooks/)   
-imperial library (Tor)
-[internet archive](https://archive.org/)
+imperial library (Tor)   
+[internet archive](https://archive.org/)   
