@@ -18,7 +18,7 @@
 [lewisje's list (reddit)](https://www.reddit.com/r/learnmath/comments/5nk3ze/-/dcc8d1m)  
 [Open textbook library](https://open.umn.edu/opentextbooks/subjects/7)  
 [free math textbook](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)  
-[usenet indexers](https://www.reddit.com/r/usenet/wiki/indexers)  
+[usenet indexers(reddit)](https://www.reddit.com/r/usenet/wiki/indexers)  
 [althub.co.za](https://althub.co.za)  
 [irc guide (reddit)](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)  
 [usenet guide (reddit)](https://www.reddit.com/r/Piracy/comments/95t525/i_said_i_would_so_finally_delivered_on_my_guide/)  
