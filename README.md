@@ -1,6 +1,5 @@
 ## Free ebooks
 
-![Logo](https://raw.githubusercontent.com/danish486/ebooks/master/logo.png) 
 [b-ok.cc](https://b-ok.cc)  
 [libgen.is](https://libgen.is)  
 [libgen.me](https://libgen.me)  
