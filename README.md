@@ -36,5 +36,5 @@ irc.irchighway.net/ebooks
 imperial library (Tor)   
 [internet archive](https://archive.org/)   
 [linux ebooks (it's foss)](https://itsfoss.com/learn-linux-for-free/)   
-[linux ebooks (linoxide)](https://linoxide.com/ebooks/free-linux-ebooks-beginners/)
-[inkscape](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/)
+[linux ebooks (linoxide)](https://linoxide.com/ebooks/free-linux-ebooks-beginners/)   
+[inkscape](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/)   
