@@ -12,7 +12,7 @@
 [libgen.pw](https://libgen.pw)  
 [bookboon.com](https://bookboon.com)  
 [feedbooks.com](https://feedbooks.com)  
-[how to read books (reddit)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/cveubp/how_to_read_books_comics_manga_magazines_online/)  
+[how to read books online (reddit)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/cveubp/how_to_read_books_comics_manga_magazines_online/)  
 [Free math books (physics forum)](https://www.physicsforums.com/threads/free-math-books.796225/)  
 [Free physics books (physics forum)](https://www.physicsforums.com/threads/free-physics-books.796223/)   
 [STEM bibles list (physics forum) ](https://www.physicsforums.com/threads/stem-bibles-list.945635/)  
