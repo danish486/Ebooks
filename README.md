@@ -27,9 +27,8 @@ irc.undernet.org/bookz
 irc.irchighway.net/ebooks    
 [hamsphire college](https://www.hampshire.edu/library/links-to-free-ebook-resources)  
 [google custom search](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo)  
-[1337x.to](https://1337x.to)  
+[general torrent sites (github)](https://github.com/freemediaheckyeah/streaming/wiki/General-Torrent-Sites)
 [torrentz2.eu](https://torrentz2.eu)  
-[thepiratebay.org](https://thepiratebay.org)  
 [openlibrary.org](https://openlibrary.org/)   
 [allitebooks.org](http://www.allitebooks.org/)   
 [ebooks(multireddit)](https://www.reddit.com/r/eebooks+mathbooks+csbooks+physicsbooks+econbooks/)   
