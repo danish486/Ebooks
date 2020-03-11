@@ -1,5 +1,3 @@
-## Free ebooks
-
 [b-ok.cc](https://b-ok.cc)  
 [book4you.org](https://book4you.org/)   
 [libgen.is](https://libgen.is)  
