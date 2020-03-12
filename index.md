@@ -1,4 +1,5 @@
 [b-ok.cc](https://b-ok.cc)  
+[b-ok.xyz](https://b-ok.xyz)
 [book4you.org](https://book4you.org/)   
 [libgen.is](https://libgen.is)  
 [libgen.me](https://libgen.me)  
